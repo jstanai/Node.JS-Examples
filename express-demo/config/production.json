@@ -1,0 +1,6 @@
+{
+    "name": "my production env",
+    "mail": {
+        "host": "dev-mail server"
+    }
+}
